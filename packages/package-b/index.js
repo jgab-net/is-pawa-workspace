@@ -1,3 +1,3 @@
 export default function sayHello(name) {
-    console.log('hola %s', name);
+    console.log('hi %s', name);
 }

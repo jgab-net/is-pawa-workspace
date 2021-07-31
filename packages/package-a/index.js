@@ -1,3 +1,3 @@
 export default function sayBye(name) {
-  console.log('chao %s', name);
+  console.log('bye %s', name);
 }
