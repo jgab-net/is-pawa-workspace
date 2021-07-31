@@ -1,5 +1,5 @@
 {
-  "name": "@is-pawa/workspace",
+  "name": "is-pawa-workspace",
   "private": true,
   "version": "1.0.0",
   "main": "index.js",
@@ -10,6 +10,6 @@
   ],
   "type": "module",
   "scripts": {
-    "start:awesome": "yarn workspace @is-pawa/awesome run start"
+    "start:awesome": "yarn workspace is-pawa-awesome run start"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@is-pawa/package-b",
+  "name": "is-pawa-package-b",
   "private": false,
   "version": "1.0.0",
   "main": "index.js",
