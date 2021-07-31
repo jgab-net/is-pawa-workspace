@@ -1,0 +1,15 @@
+{
+  "name": "@is-pawa/workspace",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "applications/*",
+    "packages/*"
+  ],
+  "type": "module",
+  "scripts": {
+    "start:awesome": "yarn workspace @is-pawa/awesome run start"
+  }
+}

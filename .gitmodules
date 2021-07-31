@@ -1,0 +1,3 @@
+[submodule "applications/awesome"]
+	path = applications/awesome
+	url = git@github.com:jgab-net/is-pawa-awesome.git
